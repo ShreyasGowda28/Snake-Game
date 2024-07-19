@@ -36,7 +36,7 @@ This is a classic Snake game implemented using Pygame in Python. The objective i
 
 3. **Run the game**:
     ```sh
-    python snake_game.py
+    python one.py
     ```
 
 ## Code Overview
